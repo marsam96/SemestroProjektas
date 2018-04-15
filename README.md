@@ -1,2 +1,1 @@
-ALDAS, Baldas
-LINAS, Blynas
+Kazkas cia
